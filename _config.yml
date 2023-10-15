@@ -31,9 +31,9 @@ linkedin_username: skchunduri
 
 # Additional icon links
 #additional_links:
-#- title: CV
- # icon: fas fa-file-word
-  #url: https://docs.google.com/document/d/1-Mmo0Zi6qFjMQ4qMiTmIGwShOsVkkumAzvF9L7Bo3Uk/edit?usp=sharing
+- title: CV
+  icon: fa-regular fa-file-word
+  url: https://docs.google.com/document/d/1-Mmo0Zi6qFjMQ4qMiTmIGwShOsVkkumAzvF9L7Bo3Uk/edit?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
