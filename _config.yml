@@ -48,9 +48,11 @@ linkedin_username: skchunduri
 # about_title: About Me
 about_profile_image: images/passport.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Surendra and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Surendra and I'm a result-oriented and self-starting Business Architect with over a decade of experience handling critical business projects. I've held various roles, such as Senior Business Analyst, Product Owner, and Technical Business Analyst, all while adhering to Agile Methodology.
+My expertise in Business Analysis spans multiple domains, including Business Process Management (BPM), Product Development, Digital Transformation, Continuous Process Improvement, Business Process Automation, Business Continuity, and End User Technology.
+I'm experienced in leading Discovery Sessions that involve all stakeholders and then developing program/project features and Epics. I'm proficient in documenting business processes, process flows, data flows, and use cases. I excel at breaking down and converting user requirements into deliverables, epics, and user stories to effectively manage and maintain requirements.
+I also have experience conducting DCO (Directly Capturing Objectives) sessions and capturing case workflows in Pega, a business process management and customer relationship management software. Furthermore, I have experience in reviewing and validating proposed application designs to ensure scalability.
+As a demonstrative Scrum Master, I have a background in effectively communicating with and leading high-performance teams. My track record includes a proven ability to transform specific business goals related to growth and efficiency improvements into new system designs.
 
 content:
   - title: Projects # Title for the section
