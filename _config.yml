@@ -12,7 +12,7 @@ email: skumar.chunduri@skchunduri.me
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -22,7 +22,7 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: https://www.linkedin.com/in/skchunduri/
+linkedin_username: https://www.linkedin.com/in/skchunduri
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
